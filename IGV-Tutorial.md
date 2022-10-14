@@ -56,13 +56,12 @@ Thought-provoking question goes here
 
 ### Requirements
 
-* [Integrative Genomics Viewer](http://www.broadinstitute.org/igv/home)
-* Ability to run Java
-* Note that while most tutorials in this course are performed on the cloud, IGV will always be run on your **local** machine
+* [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/download)
+* IGV will always be run on your **local** machine
 
 ### Compatibility
 
-This tutorial was intended for **IGV v2.3**, which is available on the [IGV Download](http://www.broadinstitute.org/software/igv/download) page. It is *strongly* recommended that you use this version.
+This tutorial was intended for **IGV v2.14**, which is available on the [IGV Download](https://software.broadinstitute.org/software/igv/download) page. It is *strongly* recommended that you use this version.
 
 ### Data Set for IGV
 We will be using publicly available Illumina sequence data from the HCC1143 cell line. The HCC1143 cell line was generated from a 52 year old caucasian woman with breast cancer. Additional information on this cell line can be found here: <a href="http://www.atcc.org/products/all/CRL-2321.aspx">HCC1143</a> (tumor, TNM stage IIA, grade 3, primary ductal carcinoma) and <a href="http://www.atcc.org/products/all/CRL-2362.aspx">HCC1143/BL</a> (matched normal EBV transformed lymphoblast cell line).
